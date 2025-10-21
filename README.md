@@ -30,3 +30,7 @@ devtools::install_github("sarahunsberger1/hw4_package", build_vignettes = TRUE)
 ```
 
 Then you need to install shiny, bslib and ggplot2 from CRAN. Finally, you can clone this repository and run the app from the code. 
+
+## Gif showing the app:
+
+![](gif_study_design_app.gif)
